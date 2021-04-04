@@ -1,0 +1,21 @@
+﻿C:\Users\Administrator\source\repos\aeron-guide\src\main\netcore\Echo\Take1-EchoClient\bin\Debug\net5.0>Take1-EchoClient.exe "C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator" 127.0.0.1 55002 127.0.0.1 55001
+=== Echo Client ===
+Arguments:
+args[0]: C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator
+args[1]: 127.0.0.1
+args[2]: 55002
+args[3]: 127.0.0.1
+args[4]: 55001
+===================
+response: 918968895
+response: 311129628
+response: 27416106
+response: 1441759035
+response: 383922169
+response: 1012897613
+response: 1233019502
+response: 1802742778
+response: 1838442967
+response: 2140524271
+response: 98839072
+response: 189780745

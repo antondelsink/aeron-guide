@@ -2,3 +2,13 @@
 guide.html
 out
 target
+/.vs
+/src/main/netcore/Echo/.vs/Echo/v16
+/src/main/netcore/Echo/Take1/bin/Debug/net5.0
+/src/main/netcore/Echo/Take1/obj
+/src/main/netcore/Echo/.vs/Echo/DesignTimeBuild
+/src/main/netcore/Echo/Take1-EchoClient/bin/Debug/net5.0
+/src/main/netcore/Echo/Take1-EchoClient/obj
+/src/main/netcore/Echo/Take1-EchoServer/bin/Debug/net5.0
+/src/main/netcore/Echo/Take1-EchoServer/obj
+/src/main/netcore/Echo/.vs/Echo/config
