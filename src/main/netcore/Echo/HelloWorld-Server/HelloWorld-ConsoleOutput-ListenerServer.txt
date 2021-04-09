@@ -1,0 +1,15 @@
+﻿C:\Users\Administrator\source\repos\aeron-guide\src\main\netcore\Echo\HelloWorld-Server\bin\Debug\net5.0>HelloWorld-Server.exe "C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator" 127.0.0.1 55001
+=== Listener ===
+Arguments:
+args[0]: C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator
+args[1]: 127.0.0.1
+args[2]: 55001
+===================
+Directory Hint on Windows: default folder for cnc.dat looks similar to C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator
+===================
+subscription URI: aeron:udp?endpoint=127.0.0.1:55001|reliable=True
+OnClientConnected: 127.0.0.1:51355
+OnReceiveMessage Initial: Session: -1395341593, Message: HELLO
+OnReceiveMessage Initial: Session: -1395341593, Message: WORLD
+OnClientDisconnected: 127.0.0.1:51355
+OnClientDisconnected: closing client HelloWorld_Server.HelloWorldListener+ServerClient

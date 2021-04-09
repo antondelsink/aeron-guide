@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HelloWorld-Client": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\aeron-Administrator\" 127.0.0.1 55002 127.0.0.1 55001"
+    }
+  }
+}

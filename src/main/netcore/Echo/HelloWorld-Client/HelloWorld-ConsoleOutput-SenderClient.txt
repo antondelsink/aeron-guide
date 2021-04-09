@@ -1,0 +1,11 @@
+﻿C:\Users\Administrator\source\repos\aeron-guide\src\main\netcore\Echo\HelloWorld-Client\bin\Debug\net5.0>HelloWorld-Client.exe "C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator" 127.0.0.1 55002 127.0.0.1 55001
+=== Sender ===
+Arguments:
+args[0]: C:\Users\Administrator\AppData\Local\Temp\2\aeron-Administrator
+args[1]: 127.0.0.1
+args[2]: 55002
+args[3]: 127.0.0.1
+args[4]: 55001
+===================
+
+C:\Users\Administrator\source\repos\aeron-guide\src\main\netcore\Echo\HelloWorld-Client\bin\Debug\net5.0>
