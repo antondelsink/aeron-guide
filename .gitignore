@@ -14,3 +14,15 @@ target
 /src/main/netcore/Echo/HelloWorld-Client/obj
 /src/main/netcore/Echo/HelloWorld-Server/bin
 /src/main/netcore/Echo/HelloWorld-Server/obj
+/src/main/netcore/NAeronStats/.vs
+/src/main/netcore/NAeronStats/bin
+/src/main/netcore/NAeronStats/obj
+/src/main/netcore/NAeronStats/Tests_NAeronStats/.vs
+/src/main/netcore/NAeronStats/Tests_NAeronStats/bin
+/src/main/netcore/NAeronStats/Tests_NAeronStats/obj
+/src/main/netcore/NAeronStats/NAeronStats/.vs
+/src/main/netcore/NAeronStats/NAeronStats/bin
+/src/main/netcore/NAeronStats/NAeronStats/obj
+/src/main/netcore/NAeronStats/NAeronStatsApp/.vs
+/src/main/netcore/NAeronStats/NAeronStatsApp/bin
+/src/main/netcore/NAeronStats/NAeronStatsApp/obj

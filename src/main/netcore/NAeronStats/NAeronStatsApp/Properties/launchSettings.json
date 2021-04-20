@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NAeronStatsApp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\aeron-Administrator\\cnc.dat\""
+    }
+  }
+}
