@@ -32,7 +32,7 @@ namespace NAeron
                     Console.WriteLine(headerLine2);
 
                     var stats = from stat in nas.GetStats()
-                                where stat.Item1.TypeID == 0
+                                where stat.Item1.TypeID == 0 // System Counters == 0
                                 select stat;
 
                     foreach (var stat in stats)
